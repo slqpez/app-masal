@@ -1,0 +1,29 @@
+{
+  "name": "app-masal",
+  "version": "1.0.0",
+  "description": "App with arquitecture based on Domain driven design, for MaSal proyect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slqpez/app-masal.git"
+  },
+  "keywords": [],
+  "author": "Santiago López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slqpez/app-masal/issues"
+  },
+  "homepage": "https://github.com/slqpez/app-masal#readme",
+  "dependencies": {
+    "awilix": "^4.2.6",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
